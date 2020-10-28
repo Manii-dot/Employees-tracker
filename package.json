@@ -9,17 +9,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Manii-dot/Employees-tracker"
+    "url": "git+https://github.com/Manii-dot/Employees-tracker.git"
   },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": ""
-  },
-  "homepage": "",
+  "homepage": "https://github.com/Manii-dot/Employees-tracker#readme",
   "dependencies": {
     "inquirer": "^7.3.3",
     "mysql": "^2.18.1",
     "nodemon": "^2.0.6"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/Manii-dot/Employees-tracker/issues"
   }
 }
